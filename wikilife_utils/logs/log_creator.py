@@ -19,7 +19,7 @@ class LogCreator(object):
             "id": 0,
             "userId": user_id,
             "start": start,
-            "end": start,
+            "end": end,
             "text": text,
             "source": source,
             "nodes": nodes
